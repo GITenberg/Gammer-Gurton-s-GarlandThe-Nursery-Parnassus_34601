@@ -1,0 +1,29 @@
+_repo: Gammer-Gurton-s-GarlandThe-Nursery-Parnassus_34601
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Ritson, Joseph
+    alias: Ritson, J. (Joseph)
+    birthdate: 1752
+    deathdate: 1803
+    gutenberg_agent_id: '37114'
+    url: http://www.gutenberg.org/2009/agents/37114
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes'
+title: "Gammer Gurton's Garland; Or, The Nursery Parnassus\r\nA Choice Collection\
+  \ of Pretty Songs and Verses for the Amusement of All Little Good Children Who Can\
+  \ Neither Read nor Run."
+url: http://www.gutenberg.org/ebooks/34601
